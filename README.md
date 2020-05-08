@@ -1,2 +1,2 @@
 # PBO_Repository
-This dipository is the result of PBO coursework
+This repository is the result of a PBO coursework assignment
